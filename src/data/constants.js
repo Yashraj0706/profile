@@ -268,7 +268,7 @@ export const education = [
     img: "https://res.cloudinary.com/dwpd7paqy/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1722840427/mmpsicon_1_bhvgka.png",
     school: "Maharana Mewar Public School",
     date: "2018",
-    desc: "I completed my class 12 high school education at MMPS, Udaipur, where I studied Scienc.",
+    desc: "I completed my class 12 high school education at MMPS, Udaipur, where I studied Science.",
     degree: "CBSE(XII), Science",
   },
   {

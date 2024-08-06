@@ -44,7 +44,7 @@ const Navbar = () => {
             <MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
             }}>Experience</MobileLink>
-            <MobileLink href='#projects' onClick={() => {
+            <MobileLink href='https://trekit-q37f.onrender.com' target="_blank" onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
             <MobileLink href='#education' onClick={() => {

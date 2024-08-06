@@ -1,7 +1,7 @@
 {
+  "homepage": "https://Yashraj0706.github.io/profile",
   "name": "yashraj-singh-chauhan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Yashraj0706",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
