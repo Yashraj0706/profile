@@ -9,7 +9,7 @@ export const Bio = {
     "Versatile and creative Full Stack Developer with a passion for crafting robust, scalable web and mobile applications. Leveraging expertise in both frontend and back-end development, along with a keen eye for user experience, to deliver innovative solutions.",
   github: "https://github.com/Yashraj0706?tab=repositories",
   resume:
-    "https://drive.google.com/file/d/1dXDpI2MROTU6LWrd1h-PSTE92TujSsfE/view?usp=sharing",
+    "https://drive.google.com/file/d/1wZihImddRmtk-bLoNUdhZS2w1c7RcSpl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/yashraj-fullstack/",
   twitter: "https://x.com/YashrajSChouhan?t=HMyL0-oaiz7u-jahq-lH2w&s=09",
   insta: "https://www.instagram.com/yashraj_singh_ch0uhan/",
